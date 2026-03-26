@@ -9,7 +9,7 @@ While the description below includes the _primary_ groups of repositories, there
 
 ### Datasets
 
-_Repository Name Prefix:_ **`FCEXXXX_`**
+_Repository Name Prefix:_ **`FCEXXXX-`**
 
 _Topic(s):_ **`dataset`**
 
@@ -19,7 +19,7 @@ _Description:_ **Repositories created by the FCE Information Manager or site res
 
 ### Events
 
-_Repository Name Prefix:_ **`event_`**
+_Repository Name Prefix:_ **`event-`**
 
 _Topic(s):_ **`event`**
 
@@ -39,7 +39,7 @@ _Description:_ **Repositories created or maintained by the Information Manager (
 
 ### LTER Working Groups
 
-_Repository Name Prefix:_ **`lterwg_`**
+_Repository Name Prefix:_ **`lterwg-`**
 
 _Topic(s):_ **`lter-science` & `synthesis-working-group`**
 
@@ -59,7 +59,7 @@ _Description:_ **Repositories containing materials to support manuscripts.**
 
 ### Maps
 
-_Repository Name Prefix:_ **`maps_`**
+_Repository Name Prefix:_ **`maps-`**
 
 _Topic(s):_ **`map`**
 
@@ -69,7 +69,7 @@ _Description:_ **Repositories containing materials for creating maps.**
 
 ### Workshops
 
-_Repository Name Prefix:_ **`workshop_`**
+_Repository Name Prefix:_ **`workshop-`**
 
 _Topic(s):_ **`education` & `workshop`**
 
