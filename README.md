@@ -1,7 +1,7 @@
 # Welcome to the FCE-LTER GitHub Organization
 Note: This meta-repository is under developement.
 
-This meta-repository is meant to help with navigation of the repositories within this organization account, and it adapts the content and organizational style of the LTER Network's [index repository](https://github.com/lter/lter_github-index). To group similar repositories together, we make extensive use of GitHub "[topics](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/classifying-your-repository-with-topics)" and try to use shared repository name components. Both of these--where applicable--are described below in the following sections.
+This meta-repository is meant to help with navigation of the repositories within this organization account, and it adapts the content and organizational style of the LTER Network's [index repository](https://github.com/lter/lter_github-index). To group similar repositories together, we make extensive use of GitHub "[topics](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/classifying-your-repository-with-topics)" and try to use shared repository name components. Both of these--where applicable--are described below in the following sections. We also follow the convention of using "-" (rather than underscores) as separators in names of repositories when possible.
 
 While the description below includes the _primary_ groups of repositories, there are some topics that are in use that are not described. These currently include `documentation`.
 
@@ -31,7 +31,7 @@ _Description:_ **Repositories containing materials for event planning.**
 
 _Repository Name Prefix:_ N/A
 
-_Topic(s):_ **`information-managment`**
+_Topic(s):_ **`information-management`**
 
 _Description:_ **Repositories created or maintained by the Information Manager (IM) for information management tasks.**
 
