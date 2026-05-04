@@ -9,7 +9,7 @@ While the description below includes the _primary_ groups of repositories, there
 
 ### Datasets
 
-_Repository Name Prefix:_ **`FCEXXXX-`**
+_Repository Name Prefix:_ **`dataset-`**
 
 _Topic(s):_ **`dataset`**
 
